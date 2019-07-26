@@ -3,8 +3,6 @@
 [NOTES]
 
 * Gives you the opportunity to have people in the stretcher o
-* I made this a long time ago and got no use for it, if someone here to make it better go ahead.
-
 * You spawn it with /civiere.
 
 [REQUIREMENTS]
